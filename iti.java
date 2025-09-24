@@ -4,8 +4,13 @@ public class HelloITI {
         System.out.println("Hello ITI");
     }
 
+    public void printHelloGit() {
+        System.out.println("Hello Git");
+    }
+
     public static void main(String[] args) {
-        HelloITI hw = new HelloITI();
-        hw.printHelloITI();
+        HelloITI iti = new HelloITI();
+        iti.printHelloITI();
+        iti.printHelloGit();
     }
 }
