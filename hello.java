@@ -5,7 +5,7 @@ public class HelloJava {
     }
 
     public static void main(String[] args) {
-        HelloJava hw = new Helloworld();
-        hw.printHelloWorld();
+        HelloJava hello = new Helloworld();
+        hello.printHelloWorld();
     }
 }
