@@ -1,6 +1,6 @@
 class HelloJava {
     printHelloWorld(){
-        console.log("Hello marihan")
+        console.log("Hello sohila")
     }
 }
 
